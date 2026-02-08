@@ -2,7 +2,7 @@
 
 创建名为 `ERNIE-5.0-Pytorch` 的文件夹，并将以下内容保存为对应的文件：
 
-```text
+
 ERNIE-5.0-Pytorch/
 ├── README.md             # 项目说明文档
 ├── requirements.txt      # 依赖包列表
@@ -14,11 +14,9 @@ ERNIE-5.0-Pytorch/
 ├── loss.py               # 辅助 Loss (负载均衡)
 ├── objectives.py         # 主任务 Loss (统一自回归目标)
 └── train.py              # 启动脚本 (训练循环)
-```
 
 ---
 
-```markdown
 # ERNIE 5.0: Natively Unified Multimodal LLM (Unofficial PyTorch Implementation)
 
 这是一个基于论文 **[arXiv:2602.04705] ERNIE 5.0 Technical Report** 的概念性 PyTorch 实现。
