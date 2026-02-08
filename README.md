@@ -1,6 +1,6 @@
 ### 📂 项目目录结构 (Project Structure)
 
-建议名为 `ERNIE-5.0-Pytorch` 的文件夹，并将以下内容保存为对应的文件：
+创建名为 `ERNIE-5.0-Pytorch` 的文件夹，并将以下内容保存为对应的文件：
 
 ```text
 ERNIE-5.0-Pytorch/
