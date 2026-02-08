@@ -2,7 +2,7 @@
 
 创建名为 `ERNIE-5.0-Pytorch` 的文件夹，并将以下内容保存为对应的文件：
 
-
+---
 ERNIE-5.0-Pytorch/
 ├── README.md             # 项目说明文档
 ├── requirements.txt      # 依赖包列表
